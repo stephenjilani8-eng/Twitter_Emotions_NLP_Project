@@ -51,7 +51,7 @@ The graph above shows that Apple products are more talked about compared to goog
 
 **EXPLORATORY DATA ANALYSIS ON TEXT COLUMN**
 
-Phase_4_Project/Images/Frequent words Vs frequency.PNG
+![Frequent words Vs frequency](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/651e1986763012ac0358f6f95b0b9d95e3ba5903/Images/Frequent%20words%20Vs%20frequency.PNG)
 
 The graph shows the most frequent words in the dataset.
 
