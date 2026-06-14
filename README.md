@@ -45,7 +45,7 @@ The bar graph shows that Apple products get more revieews compared to the Google
 
 The bar graph shows that neutral emotions are the majority in the dataset, followed by positive and then negative emotions. This may be an indication that Twitter users are quite indifferent when it comes to choosing either Google or Apple products.
 
-Phase_4_Project/Images/Frequency Vs Brand Vs Sentiment Stacked.PNG
+![Frequency Vs Brand Vs Sentiment Stacked](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/fe2f43f088a3dd399326994b647720672aeb4c26/Images/Frequency%20Vs%20Brand%20Vs%20Sentiment%20Stacked.PNG)
 
 The graph above shows that Apple products are more talked about compared to google products. This is evident in Apple products having more frequency in the dataset. However, the most sentiments are the neutral ones meaning that most reviewers are indifferent on the products they use.
 
