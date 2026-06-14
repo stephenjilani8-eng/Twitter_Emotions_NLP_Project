@@ -41,7 +41,7 @@ The data was obtained from CriwdFlower via data.world, and is composed of sentim
 
 The bar graph shows that Apple products get more revieews compared to the Google products. This may lead to a bias problem in the model. However, a ratio of less that 1:2 is manageable.
 
-Phase_4_Project/Images/Frequency Vs Sentiment.PNG
+![Frequency vs Sentiment](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/62c52299385258692c03f5d68319d771328ce294/Images/Frequency%20Vs%20Sentiment.PNG)
 
 The bar graph shows that neutral emotions are the majority in the dataset, followed by positive and then negative emotions. This may be an indication that Twitter users are quite indifferent when it comes to choosing either Google or Apple products.
 
