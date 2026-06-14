@@ -46,6 +46,15 @@ The bar graph shows that Apple products get more revieews compared to the Google
 The bar graph shows that neutral emotions are the majority in the dataset, followed by positive and then negative emotions. This may be an indication that Twitter users are quite indifferent when it comes to choosing either Google or Apple products.
 
 
+![Frequency vs brand](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/bc290089124e92c9d8ee28dafd657bf52d9cb213/Images/Frequency%20Vs%20Brand.PNG)
+
+The bar graph shows that Apple products get more revieews compared to the Google products. This may lead to a bias problem in the model. However, a ratio of less that 1:2 is manageable.
+
+![Frequency vs Sentiment](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/62c52299385258692c03f5d68319d771328ce294/Images/Frequency%20Vs%20Sentiment.PNG)
+
+The bar graph shows that neutral emotions are the majority in the dataset, followed by positive and then negative emotions. This may be an indication that Twitter users are quite indifferent when it comes to choosing either Google or Apple products.
+
+![Frequency Vs Brand Vs Sentiment Stacked](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/fe2f43f088a3dd399326994b647720672aeb4c26/Images/Frequency%20Vs%20Brand%20Vs%20Sentiment%20Stacked.PNG)
 
 The graph above shows that Apple products are more talked about compared to google products. This is evident in Apple products having more frequency in the dataset. However, the most sentiments are the neutral ones meaning that most reviewers are indifferent on the products they use.
 
@@ -102,3 +111,10 @@ Multicalass classification was done on XGBoost only with a base and a tuned mode
 1. Class imbalance in the dataset may influence the performance of the model as the data contains very few negatives and a majority of neutral sentiments.
 2. The data was social media noisy and that may affect the performance of the model
 3. The data may be from a specific region in the world and may not be fit for the stakeholder’s region
+![Frequent words Vs frequency](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/651e1986763012ac0358f6f95b0b9d95e3ba5903/Images/Frequent%20words%20Vs%20frequency.PNG)
+
+The graph shows the most frequent words in the dataset.
+
+![Frequent Bigrams Vs Frequency](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/adcf51ed714253539702635ccfd0baefb7b16c1e/Images/Frequent%20Bigrams%20Vs%20Frequency.PNG)
+
+The graph shows the most frequent bigrams in the dataset.
