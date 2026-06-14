@@ -55,6 +55,6 @@ The graph above shows that Apple products are more talked about compared to goog
 
 The graph shows the most frequent words in the dataset.
 
-Phase_4_Project/Images/Frequent Bigrams Vs Frequency.PNG
+![Frequent Bigrams Vs Frequency](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/adcf51ed714253539702635ccfd0baefb7b16c1e/Images/Frequent%20Bigrams%20Vs%20Frequency.PNG)
 
 The graph shows the most frequent bigrams in the dataset.
