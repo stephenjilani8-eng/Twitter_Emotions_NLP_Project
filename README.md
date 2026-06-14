@@ -71,10 +71,12 @@ The graph shows the most frequent bigrams in the dataset.
 
 **MODELLING AND MODEL EVALUATION**
 **i. Binary Classification**
-The best model was the tuned XGBoost model whose confusion matrix is as below
+The best model was the tuned XGBoost model whose confusion matrix is as below.
+
 ![Tuned XGBoost Binary model](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/b4f65432e08b1ba3c246623c692e59e9b5f4ec1e/Images/Tuned%20XGBoost%20Binary%20Model.PNG)
 
 **Feature importance in Binary Classification**
+![Feature importance in Binary Classification](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/24b37aa9466eae8b047a06a797b366de809fb3ab/Images/Feature%20importance%20Binary%20classification.PNG)
 
 
 **ii. Multiclass Classification**
