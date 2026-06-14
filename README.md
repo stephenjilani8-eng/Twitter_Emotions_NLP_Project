@@ -61,10 +61,10 @@ The graph above shows that Apple products are more talked about compared to goog
 **EXPLORATORY DATA ANALYSIS ON TEXT COLUMN**
 
 
-
+![Frequent words Vs frequency](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/651e1986763012ac0358f6f95b0b9d95e3ba5903/Images/Frequent%20words%20Vs%20frequency.PNG)
 The graph shows the most frequent words in the dataset.
 
-
+![Frequent Bigrams Vs Frequency](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/adcf51ed714253539702635ccfd0baefb7b16c1e/Images/Frequent%20Bigrams%20Vs%20Frequency.PNG)
 The graph shows the most frequent bigrams in the dataset.
 
 
@@ -111,10 +111,10 @@ Multicalass classification was done on XGBoost only with a base and a tuned mode
 1. Class imbalance in the dataset may influence the performance of the model as the data contains very few negatives and a majority of neutral sentiments.
 2. The data was social media noisy and that may affect the performance of the model
 3. The data may be from a specific region in the world and may not be fit for the stakeholder’s region
-![Frequent words Vs frequency](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/651e1986763012ac0358f6f95b0b9d95e3ba5903/Images/Frequent%20words%20Vs%20frequency.PNG)
+
 
 The graph shows the most frequent words in the dataset.
 
-![Frequent Bigrams Vs Frequency](https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/adcf51ed714253539702635ccfd0baefb7b16c1e/Images/Frequent%20Bigrams%20Vs%20Frequency.PNG)
+
 
 The graph shows the most frequent bigrams in the dataset.
