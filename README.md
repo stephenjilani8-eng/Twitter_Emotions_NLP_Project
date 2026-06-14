@@ -37,24 +37,24 @@ The data was obtained from CriwdFlower via data.world, and is composed of sentim
 
 **EXPLORATORY DATA ANALYSIS ON NON-TEXT COLUMNS**
 
-https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/main/Images/Frequency%20Vs%20Brand.PNG
+Phase_4_Project/Images/Frequency Vs Brand.PNG
 
 The bar graph shows that Apple products get more revieews compared to the Google products. This may lead to a bias problem in the model. However, a ratio of less that 1:2 is manageable.
 
-https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/main/Images/Frequency%20Vs%20Sentiment.PNG
+Phase_4_Project/Images/Frequency Vs Sentiment.PNG
 
 The bar graph shows that neutral emotions are the majority in the dataset, followed by positive and then negative emotions. This may be an indication that Twitter users are quite indifferent when it comes to choosing either Google or Apple products.
 
-https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/main/Images/Frequency%20Vs%20Brand%20Vs%20Sentiment%20Stacked.PNG
+Phase_4_Project/Images/Frequency Vs Brand Vs Sentiment Stacked.PNG
 
 The graph above shows that Apple products are more talked about compared to google products. This is evident in Apple products having more frequency in the dataset. However, the most sentiments are the neutral ones meaning that most reviewers are indifferent on the products they use.
 
 **EXPLORATORY DATA ANALYSIS ON TEXT COLUMN**
 
-https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/main/Images/Frequent%20words%20Vs%20frequency.PNG
+Phase_4_Project/Images/Frequent words Vs frequency.PNG
 
 The graph shows the most frequent words in the dataset.
 
-https://github.com/stephenjilani8-eng/Twitter_Emotions_NLP_Project/blob/main/Images/Frequent%20Bigrams%20Vs%20Frequency.PNG
+Phase_4_Project/Images/Frequent Bigrams Vs Frequency.PNG
 
 The graph shows the most frequent bigrams in the dataset.
