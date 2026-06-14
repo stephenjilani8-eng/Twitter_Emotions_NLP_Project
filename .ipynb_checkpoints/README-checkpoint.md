@@ -37,7 +37,7 @@ The data was obtained from CriwdFlower via data.world, and is composed of sentim
 
 **EXPLORATORY DATA ANALYSIS ON NON-TEXT COLUMNS**
 
-Phase_4_Project/Images/Frequency Vs Brand.PNG
+![Frequency vs brand](Images/Frequency Vs Brand.PNG)
 
 The bar graph shows that Apple products get more revieews compared to the Google products. This may lead to a bias problem in the model. However, a ratio of less that 1:2 is manageable.
 
